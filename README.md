@@ -15,8 +15,8 @@ Este repositório contém todos os entregáveis do projeto desenvolvido para o c
 
 - **⚡ Automação de Alertas (Google Sheets + Apps Script):**  
   A planilha CSV conectada ao Google Apps Script envia alertas por e-mail sempre que ocorre uma modificação nos dados da Sprint.  
-  - Arquivo: 
-  - Código do Apps Script disponível para visualização diretamente no Google Sheets.  
+  - Arquivo: Sprint 1 - AutoU - HistoriaUsuarios (1).csv 
+  - Código do Apps Script disponível para visualização diretamente no Google Sheets indo em Extensões > App Script > Copy of Project 😊.  
 
 ## 🛠️ Funcionalidades
 
